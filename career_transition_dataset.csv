@@ -1,0 +1,201 @@
+Age,Education,YearsExperience,CurrentIndustry,NewIndustry,SalaryDiffPct,Certification,SoftSkillsScore,HardSkillsScore,ManagerialExperience,ProgramInvolvement,TimeToTransitionMonths,SuccessfulTransition
+60,Bachelor,39,IT,IT,0.92,1,5,10,1,0,3.1,0
+50,Bachelor,28,Finance,Finance,15.61,0,4,10,1,0,1.7,0
+36,High School,17,Consulting,Consulting,2.48,1,4,9,1,0,1.3,0
+29,Bachelor,9,IT,IT,26.74,0,8,10,0,1,1.0,0
+42,Bachelor,18,IT,Consulting,20.81,0,3,9,0,1,3.9,0
+60,Bachelor,39,Education,Manufacturing,17.53,1,10,10,0,0,1.3,0
+40,High School,17,Consulting,Consulting,16.16,0,5,8,0,1,3.2,0
+44,Bachelor,20,Consulting,Consulting,4.71,1,10,8,1,0,1.0,0
+32,Bachelor,9,IT,IT,-2.8,0,5,9,1,0,1.8,0
+32,Master,13,Manufacturing,Manufacturing,-3.02,1,8,9,0,1,2.9,0
+45,High School,20,Education,Education,10.51,0,7,9,1,0,2.3,0
+57,Bachelor,33,Education,Education,5.11,1,10,10,1,0,1.3,0
+45,High School,24,Healthcare,Healthcare,-11.46,1,7,10,0,0,4.1,0
+24,Master,0,Consulting,Consulting,15.13,0,9,5,1,0,3.0,0
+43,Master,19,IT,IT,-2.18,1,3,7,0,1,1.0,0
+23,Bachelor,0,Healthcare,Healthcare,-1.6,1,3,9,0,0,2.3,0
+45,Bachelor,25,Retail,Retail,9.58,1,6,10,0,1,2.5,0
+51,Master,27,Finance,IT,6.61,0,8,10,0,0,1.5,0
+59,Bachelor,36,Education,Finance,32.84,1,7,10,0,0,1.0,0
+23,Bachelor,0,Retail,Retail,-0.6,1,4,8,0,0,3.7,0
+42,Bachelor,23,Retail,Retail,11.82,1,5,10,0,1,3.0,0
+54,High School,32,Manufacturing,Manufacturing,2.25,1,3,10,0,0,1.0,0
+33,Master,9,Finance,Retail,16.82,1,10,5,0,1,1.2,0
+43,Master,22,Retail,Retail,9.65,0,5,8,0,1,3.7,0
+46,Bachelor,22,Retail,Retail,10.57,1,5,8,0,0,2.2,0
+48,Bachelor,27,Finance,Finance,11.92,1,6,10,0,1,1.0,0
+49,Bachelor,26,Finance,Finance,25.97,0,7,5,0,1,4.2,0
+37,Master,16,Retail,Retail,7.47,1,3,10,0,1,3.8,0
+36,Master,14,Finance,Finance,11.27,1,5,8,0,0,3.2,0
+24,Master,0,Retail,Retail,18.67,1,3,10,0,0,3.6,0
+58,Master,37,Retail,Retail,14.71,1,4,10,1,0,3.9,0
+28,Bachelor,7,Manufacturing,IT,15.93,1,6,8,0,0,2.4,0
+42,High School,17,IT,IT,1.29,1,4,6,0,0,1.0,0
+30,High School,8,Retail,Education,8.88,1,3,7,1,1,5.3,0
+60,Master,36,Healthcare,Retail,26.71,0,9,10,1,0,1.9,0
+39,Bachelor,18,Education,Education,12.23,1,10,6,1,0,1.9,0
+25,High School,0,Consulting,IT,11.38,1,3,9,1,1,1.7,0
+46,High School,23,IT,IT,2.97,1,7,6,0,1,5.2,0
+35,Bachelor,10,IT,Finance,-7.82,0,5,10,0,0,3.1,0
+30,High School,7,IT,Finance,9.6,0,5,10,0,1,4.6,0
+47,High School,25,Manufacturing,Manufacturing,31.73,0,4,9,0,0,4.6,0
+23,Bachelor,0,Retail,Retail,25.63,0,10,8,0,0,1.4,1
+41,Bachelor,16,Manufacturing,Finance,30.98,1,6,8,0,1,1.0,0
+49,Bachelor,30,Retail,Retail,23.91,0,9,10,0,0,1.0,1
+28,Bachelor,9,Manufacturing,Manufacturing,-10.08,1,8,10,1,0,1.0,0
+29,Master,9,Manufacturing,Manufacturing,20.67,1,10,8,1,0,3.3,0
+56,Bachelor,35,Education,Consulting,20.67,1,5,10,0,0,1.7,0
+35,Bachelor,13,Healthcare,Healthcare,-4.15,1,7,7,1,0,1.0,0
+38,Master,13,Manufacturing,Manufacturing,15.95,1,10,9,0,0,1.0,0
+57,Bachelor,38,Education,Education,-10.79,1,4,10,1,1,1.0,0
+25,Master,4,Finance,Finance,9.79,1,4,6,0,1,2.2,0
+23,Bachelor,4,Healthcare,Healthcare,3.83,0,8,7,1,0,1.0,0
+27,Bachelor,2,Manufacturing,Manufacturing,-2.59,1,7,6,0,0,1.0,0
+25,High School,2,Consulting,Education,26.68,0,6,6,0,0,2.6,0
+50,Bachelor,25,IT,IT,11.74,0,10,7,0,0,5.2,0
+39,Bachelor,19,Finance,Finance,19.08,1,7,9,0,1,1.0,0
+47,Bachelor,22,Finance,IT,17.17,0,6,8,0,0,3.4,0
+55,PhD,30,Education,Education,18.16,1,7,9,0,0,3.3,0
+31,Bachelor,11,Finance,Finance,15.67,1,7,10,0,1,1.0,0
+57,Master,35,Healthcare,Healthcare,12.86,1,3,10,0,1,2.9,0
+35,Bachelor,10,Manufacturing,Manufacturing,27.83,1,4,6,0,1,1.6,1
+52,Master,32,Manufacturing,Manufacturing,22.42,1,10,10,1,0,1.7,0
+36,Bachelor,15,Consulting,Education,9.59,1,7,9,0,0,2.8,0
+29,Bachelor,6,IT,IT,16.39,0,10,10,0,0,1.0,0
+35,Bachelor,12,Education,Education,12.16,1,8,10,0,0,1.0,0
+44,High School,19,IT,IT,27.09,0,7,6,1,1,4.6,0
+42,Master,20,Finance,Manufacturing,28.7,1,5,10,0,1,2.2,1
+37,Bachelor,15,Consulting,Consulting,10.13,0,4,10,1,1,2.9,0
+39,High School,18,IT,IT,1.24,1,5,10,1,1,5.5,1
+45,Bachelor,20,Healthcare,Education,15.4,0,10,8,0,0,1.0,0
+47,High School,24,Manufacturing,Manufacturing,-7.3,1,10,10,0,1,1.0,0
+46,Master,24,Finance,Finance,22.42,1,4,10,1,0,1.0,0
+50,PhD,25,Consulting,Retail,25.95,1,10,10,1,0,1.0,0
+36,Master,17,IT,IT,-4.0,0,5,10,0,0,2.2,0
+22,Bachelor,0,Education,Finance,14.38,1,7,8,0,0,1.5,0
+46,High School,26,Healthcare,Healthcare,12.61,1,7,8,1,0,2.6,0
+28,Master,9,Healthcare,Healthcare,9.28,0,3,8,0,1,5.1,0
+30,Bachelor,8,IT,IT,-0.24,0,8,7,1,0,2.4,0
+45,PhD,22,Manufacturing,Manufacturing,22.88,1,10,7,0,0,3.7,0
+22,PhD,0,IT,IT,14.65,1,5,8,0,0,5.0,0
+29,Master,10,Finance,Manufacturing,16.93,1,10,10,1,1,1.0,0
+45,Bachelor,24,IT,IT,4.92,1,10,9,0,0,1.0,0
+32,Bachelor,11,Healthcare,Healthcare,-2.42,0,6,10,0,1,1.9,0
+38,Master,15,Consulting,Consulting,11.84,0,3,5,0,0,4.1,0
+29,Bachelor,7,IT,IT,13.53,0,5,10,0,1,4.8,0
+56,High School,31,Manufacturing,Manufacturing,15.32,1,5,10,0,0,3.0,1
+56,Bachelor,34,Consulting,Consulting,16.96,0,10,10,0,1,1.0,0
+54,Master,31,Education,Consulting,22.54,0,3,10,0,1,3.5,0
+26,Bachelor,5,Retail,Consulting,5.86,0,7,10,1,0,1.0,0
+60,Bachelor,38,IT,Retail,23.64,1,5,10,0,0,3.7,0
+49,High School,28,Manufacturing,Healthcare,14.67,1,7,6,0,0,3.8,0
+28,Bachelor,9,Consulting,Consulting,4.99,1,3,6,0,0,5.0,0
+30,PhD,5,Manufacturing,Manufacturing,29.07,1,7,7,1,0,2.0,0
+29,High School,10,Education,Education,15.53,1,4,5,1,1,1.4,0
+33,Bachelor,12,Healthcare,Consulting,21.5,0,6,7,0,0,2.2,0
+55,Master,34,Manufacturing,Manufacturing,32.08,1,9,8,0,0,1.0,0
+54,Master,30,Consulting,Consulting,29.98,1,5,9,0,0,1.0,0
+44,Bachelor,20,Manufacturing,Manufacturing,-5.8,1,8,8,1,0,1.0,0
+45,Master,26,Manufacturing,Consulting,-5.17,1,6,10,1,1,1.0,0
+58,Bachelor,38,Manufacturing,Manufacturing,2.53,1,9,10,0,0,1.0,0
+56,Bachelor,37,Finance,Finance,10.55,1,7,10,1,1,1.0,0
+43,Master,19,Finance,Finance,12.42,1,5,10,1,1,2.2,0
+48,Master,27,Healthcare,Healthcare,-5.3,1,7,10,0,1,1.1,0
+56,Master,33,IT,Education,-7.5,1,4,10,0,1,1.0,0
+22,Master,3,Manufacturing,Education,29.61,1,3,9,0,0,1.0,0
+56,Bachelor,35,Education,Manufacturing,31.9,0,5,10,0,1,1.9,0
+58,Bachelor,35,IT,IT,18.28,1,9,10,1,0,2.2,0
+35,Master,12,Education,Education,20.1,0,9,10,0,0,1.0,0
+24,Bachelor,0,IT,Retail,11.97,1,4,8,0,1,1.2,0
+22,Master,3,Healthcare,Healthcare,16.59,1,4,7,0,1,1.0,0
+26,Master,4,Manufacturing,Manufacturing,0.91,1,10,7,0,1,1.0,0
+47,Master,22,Manufacturing,Manufacturing,26.42,1,5,10,0,0,1.0,0
+35,Bachelor,11,Retail,Retail,9.61,0,7,10,0,0,3.0,0
+60,Bachelor,36,Education,IT,11.13,0,8,10,0,1,1.9,0
+48,High School,26,IT,Education,-3.78,1,9,10,0,0,1.0,0
+30,Bachelor,5,IT,Healthcare,28.08,0,9,5,0,1,3.1,0
+36,High School,15,Finance,Finance,-0.19,0,4,5,0,1,4.0,0
+36,Bachelor,16,Retail,Finance,51.83,1,6,10,0,0,1.0,0
+47,Bachelor,28,Consulting,Consulting,5.26,1,4,10,0,0,3.8,0
+34,Bachelor,14,Consulting,Retail,14.6,1,8,10,0,0,3.5,0
+53,Bachelor,32,Finance,Education,34.65,0,7,9,0,0,1.0,0
+60,High School,36,Finance,Consulting,28.61,1,7,10,0,1,1.0,0
+53,High School,28,Finance,Finance,8.88,1,6,7,0,0,1.0,0
+25,Master,1,Education,Education,13.26,1,9,4,1,1,3.1,0
+51,Bachelor,28,Education,Consulting,3.67,1,4,10,0,0,5.0,0
+58,High School,34,Healthcare,Healthcare,18.14,0,10,5,0,1,5.1,0
+44,Bachelor,20,Healthcare,Manufacturing,-1.36,1,7,10,1,0,1.0,0
+60,Master,39,Finance,Finance,5.6,1,8,10,0,0,1.5,0
+36,Bachelor,15,Retail,Retail,16.43,1,5,7,0,0,3.0,0
+50,Bachelor,29,IT,IT,25.65,1,3,10,1,1,1.5,0
+57,High School,37,Education,Education,22.05,1,3,9,1,1,1.0,0
+34,High School,11,Retail,Retail,16.72,1,3,10,0,1,2.4,0
+53,Bachelor,32,Manufacturing,Manufacturing,3.7,1,10,10,0,0,1.0,0
+28,Bachelor,3,Education,Education,8.17,1,9,6,0,0,1.0,0
+43,Bachelor,23,Education,Education,6.71,1,4,10,0,0,1.0,1
+49,Master,27,Healthcare,Healthcare,5.3,1,6,7,0,0,3.4,0
+23,PhD,0,IT,Retail,8.83,1,10,9,0,0,2.3,0
+27,Bachelor,8,IT,IT,5.27,1,10,10,0,1,1.0,0
+49,Bachelor,30,Consulting,Consulting,19.52,1,7,9,0,1,1.1,0
+49,Master,24,Consulting,Consulting,-0.55,1,5,9,1,1,2.3,0
+41,Bachelor,20,Consulting,Consulting,2.71,1,10,9,0,1,2.2,0
+51,Bachelor,29,Consulting,Consulting,-5.83,1,8,7,0,0,1.8,0
+32,High School,10,Manufacturing,Education,25.17,1,5,10,0,0,1.0,0
+49,High School,29,Manufacturing,Manufacturing,16.61,0,8,8,0,0,2.0,1
+46,PhD,24,Education,Education,14.75,0,9,8,0,1,4.4,0
+60,Master,41,Finance,Finance,23.19,0,4,10,0,0,1.0,0
+54,Bachelor,31,Healthcare,Healthcare,7.9,1,3,10,0,0,2.6,0
+22,Bachelor,1,Healthcare,Healthcare,0.52,0,10,6,0,0,2.2,0
+48,High School,26,Consulting,Consulting,-5.56,0,4,6,0,0,5.3,0
+34,High School,14,Education,Education,-17.85,0,9,7,0,1,3.7,0
+24,Bachelor,5,Retail,Retail,11.61,0,6,8,0,1,1.0,0
+60,Bachelor,37,Finance,IT,25.11,0,6,10,0,0,1.4,0
+27,Master,3,Education,Education,-5.3,1,9,5,1,1,1.1,0
+29,Bachelor,5,Finance,IT,21.9,1,8,5,0,1,1.1,0
+48,Bachelor,25,Finance,Finance,0.93,0,7,6,0,0,5.1,0
+30,PhD,11,Finance,IT,8.19,0,7,5,0,0,2.0,0
+58,Master,38,Education,Education,-4.85,0,8,10,0,0,3.5,0
+54,Bachelor,31,Consulting,Consulting,9.63,0,6,10,1,0,1.2,0
+45,Bachelor,24,Healthcare,Healthcare,14.29,1,6,10,0,1,1.0,1
+36,Bachelor,15,Healthcare,Healthcare,21.07,1,10,8,1,0,1.1,0
+53,Bachelor,29,Consulting,Consulting,11.76,0,6,10,0,1,2.5,1
+53,Bachelor,31,Finance,Finance,-3.4,1,4,10,0,0,1.0,0
+45,Master,25,Retail,Manufacturing,11.19,0,6,10,0,0,6.0,0
+33,High School,9,IT,Education,-2.99,1,5,7,1,0,2.6,0
+60,High School,38,Education,Education,-9.11,1,10,10,0,0,1.0,0
+23,High School,1,IT,IT,4.33,1,3,5,0,0,7.0,0
+24,High School,3,Consulting,Consulting,21.29,0,6,9,1,1,3.4,0
+58,Master,39,Retail,Retail,32.56,1,8,10,0,0,1.0,0
+38,Master,13,Education,Education,4.26,0,3,7,0,1,2.6,0
+23,Bachelor,4,Consulting,Finance,23.89,0,4,6,0,0,3.7,0
+23,High School,0,Finance,Finance,-6.51,0,8,10,1,0,1.0,0
+49,Bachelor,26,Healthcare,Healthcare,17.01,0,3,10,0,0,2.6,0
+44,Bachelor,23,IT,IT,12.35,1,8,9,1,0,2.3,0
+58,High School,36,Manufacturing,Manufacturing,28.18,1,4,10,1,0,3.7,0
+53,Bachelor,33,Manufacturing,Manufacturing,-5.35,0,10,10,0,0,6.4,0
+54,Bachelor,29,Retail,Retail,37.96,1,5,10,0,0,1.0,0
+22,Bachelor,3,Finance,Retail,30.83,1,4,4,0,0,4.1,0
+40,Bachelor,18,IT,Manufacturing,8.43,1,4,10,0,0,1.0,0
+23,High School,0,Finance,Finance,11.1,1,8,3,1,0,1.0,0
+47,Bachelor,22,IT,IT,8.16,1,10,8,1,1,4.7,0
+53,Bachelor,28,Retail,Education,18.67,1,9,10,0,1,1.0,0
+27,Bachelor,7,Retail,Retail,24.15,1,7,9,0,0,1.0,0
+53,Master,32,Manufacturing,Manufacturing,11.25,0,6,9,0,0,1.0,0
+25,Bachelor,5,Finance,Finance,7.43,1,6,7,0,1,1.0,0
+32,High School,8,Education,Education,20.24,1,5,7,0,1,4.2,0
+38,High School,16,Manufacturing,Manufacturing,-6.23,0,5,8,0,0,1.0,0
+59,Bachelor,38,Finance,IT,18.54,1,6,10,0,1,1.0,0
+45,High School,24,Manufacturing,IT,-7.65,0,7,10,0,0,5.8,0
+26,Bachelor,5,Education,Education,20.1,0,6,6,0,0,2.3,0
+55,Master,36,Healthcare,Healthcare,19.63,0,9,10,0,1,1.0,0
+27,Bachelor,6,Healthcare,Education,25.31,0,7,9,0,0,1.0,0
+43,Bachelor,23,Healthcare,Healthcare,14.41,1,5,10,1,1,1.0,0
+32,Bachelor,11,Healthcare,IT,29.6,1,3,8,0,1,5.5,0
+37,Bachelor,14,Consulting,IT,6.95,1,8,9,1,0,1.0,0
+54,Bachelor,32,IT,IT,3.97,1,9,10,1,0,2.1,0
+30,Master,9,Consulting,Consulting,7.43,0,9,10,0,0,6.1,0
+27,Bachelor,5,Consulting,Consulting,23.63,1,10,10,1,0,1.0,0
+37,PhD,14,Consulting,Consulting,17.7,1,5,6,0,1,2.5,0
+50,Master,27,Healthcare,Finance,22.65,1,5,9,0,0,1.0,0
+24,High School,2,Education,Education,15.27,0,4,4,0,0,6.9,0
